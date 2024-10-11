@@ -1,6 +1,8 @@
 ## Assignment 3
 
 Select a product that you really like (example: a TV set, a laptop, a car, etc.). Find information about your favourite product on the Internet. Using the product information (picture, description, features, similar products, company that sells the product). create in MS Expression Web 4 an HTML page with content similar to the following screenshot of a typical product online page:
+
+
 ![image](https://github.com/user-attachments/assets/a0dbed4b-f68b-4dab-b5b3-ded98aa02dd2)
 
 
